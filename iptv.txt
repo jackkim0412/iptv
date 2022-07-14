@@ -600,7 +600,7 @@ TBS,http://ye23.win/iptv/korea2021.php?id=TBS-a
 MBN,http://mytv.dothome.co.kr/ch/catv/54.php
 채널A,http://mytv.dothome.co.kr/ch/catv/52.php
 나 혼자 산다,http://mytv.dothome.co.kr/ch/catv/21.php
-라디오 스트,http://mytv.dothome.co.kr/ch/catv/22.php
+라디오 스타,http://mytv.dothome.co.kr/ch/catv/22.php
 무한도전,http://mytv.dothome.co.kr/ch/catv/23.php
 놀면 뭐하니,http://mytv.dothome.co.kr/ch/catv/27.php
 KBS 1,https://1tvhd.gscdn.kbs.co.kr/1tv-01/1tv-01_hd.m3u8?Expires=1657240352&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHZoZC5nc2Nkbi5rYnMuY28ua3IvMXR2LTAxLzF0di0wMV9oZC5tM3U4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjU3MjQwMzUyfX19XX0_&Signature=eC6E~5t-LxlwGDJK4QQejgMo2o9tQbuN8vuZdfoS-ID3sxY-aCvN45jcwbTOIkbpg8qhzYKzFYZBft-7ZJMbzDMuF6zuk1kmYfxL~YTBmygoyGjsKtdTKBLf2j4EX-BOfEeMSg4s1onsu7Utsc4vckE70qlMScVRkbJ2nm5KGjgRmFXuskJTAF8cOKs1s6gUOO1DzCFGH8M51w1srGb5i5Dm1tCO6V87zxFidTPKfGmBqh3G-KuDykhd5Xg7iEeSQB3RPag4ggAZmQD2IRFDSiQXYLIP-3KlIRY7ueyJtz38VyjlUwdrO3H0DMZ6r4aoG4VtcV0aTZMFqTA46YPQkA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
